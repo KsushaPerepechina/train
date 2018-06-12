@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trains>
+    <train>
+        <number>634Ф</number>
+        <departureStation>Могилёв</departureStation>
+        <arrivalStation>Гродно</arrivalStation>
+        <departureDateTime>01.06.2018 19:08</departureDateTime>
+        <arrivalDateTime>02.06.2018 6:01</arrivalDateTime>
+        <travelTime>10:53</travelTime>
+    </train>
+    <train>
+        <number>623Б</number>
+        <departureStation>Витебск</departureStation>
+        <arrivalStation>Гродно</arrivalStation>
+        <departureDateTime>03.06.2018 18:54</departureDateTime>
+        <arrivalDateTime>04.06.2018 6:01</arrivalDateTime>
+        <travelTime>11:07</travelTime>
+    </train>
+    <train>
+        <number>6002</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Борисов</arrivalStation>
+        <departureDateTime>02.06.2018 0:11</departureDateTime>
+        <arrivalDateTime>02.06.2018 1:49</arrivalDateTime>
+        <travelTime>01:38</travelTime>
+    </train>
+    <train>
+        <number>7042</number>
+        <departureStation>Барановичи</departureStation>
+        <arrivalStation>Минск</arrivalStation>
+        <departureDateTime>04.06.2018 22:12</departureDateTime>
+        <arrivalDateTime>05.06.2018 0:22</arrivalDateTime>
+        <travelTime>02:10</travelTime>
+    </train>
+    <train>
+        <number>684Б</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Гомель</arrivalStation>
+        <departureDateTime>11.06.2018 0:25</departureDateTime>
+        <arrivalDateTime>11.06.2018 5:51</arrivalDateTime>
+        <travelTime>05:26</travelTime>
+    </train>
+    <train>
+        <number>6033</number>
+        <departureStation>Орша</departureStation>
+        <arrivalStation>Минск</arrivalStation>
+        <departureDateTime>05.06.2018 20:18</departureDateTime>
+        <arrivalDateTime>06.06.2018 6:01</arrivalDateTime>
+        <travelTime>04:09</travelTime>
+    </train>
+    <train>
+        <number>6101</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Молодечно</arrivalStation>
+        <departureDateTime>07.06.2018 0:30</departureDateTime>
+        <arrivalDateTime>07.06.2018 2:10</arrivalDateTime>
+        <travelTime>01:40</travelTime>
+    </train>
+    <train>
+        <number>030Ч</number>
+        <departureStation>Калининград</departureStation>
+        <arrivalStation>Москва</arrivalStation>
+        <departureDateTime>10.06.2018 13:08</departureDateTime>
+        <arrivalDateTime>11.06.2018 11:06</arrivalDateTime>
+        <travelTime>20:08</travelTime>
+    </train>
+    <train>
+        <number>802Т</number>
+        <departureStation>Вильнюс</departureStation>
+        <arrivalStation>Минск</arrivalStation>
+        <departureDateTime>09.06.2018 21:17</departureDateTime>
+        <arrivalDateTime>10.06.2018 1:05</arrivalDateTime>
+        <travelTime>03:48</travelTime>
+    </train>
+    <train>
+        <number>027Б</number>
+        <departureStation>Москва</departureStation>
+        <arrivalStation>Брест</arrivalStation>
+        <departureDateTime>15.06.2018 14:25</departureDateTime>
+        <arrivalDateTime>16.06.2018 5:40</arrivalDateTime>
+        <travelTime>15:15</travelTime>
+    </train>
+    <train>
+        <number>027Б</number>
+        <departureStation>Москва</departureStation>
+        <arrivalStation>Гродно</arrivalStation>
+        <departureDateTime>31.05.2018 8:03</departureDateTime>
+        <arrivalDateTime>01.06.2018 6:01</arrivalDateTime>
+        <travelTime>17:38</travelTime>
+    </train>
+    <train>
+        <number>6904</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Осиповичи</arrivalStation>
+        <departureDateTime>14.06.2018 5:11</departureDateTime>
+        <arrivalDateTime>14.06.2018 7:12</arrivalDateTime>
+        <travelTime>02:01</travelTime>
+    </train>
+    <train>
+        <number>249Б</number>
+        <departureStation>Санкт-Петербург</departureStation>
+        <arrivalStation>Минск</arrivalStation>
+        <departureDateTime>22.06.2018 14:03</departureDateTime>
+        <arrivalDateTime>23.06.2018 5:22</arrivalDateTime>
+        <travelTime>15:19</travelTime>
+    </train>
+    <train>
+        <number>649Б</number>
+        <departureStation>Могилёв</departureStation>
+        <arrivalStation>Минск</arrivalStation>
+        <departureDateTime>24.05.2018 0:06</departureDateTime>
+        <arrivalDateTime>24.05.2018 5:13</arrivalDateTime>
+        <travelTime>05:07</travelTime>
+    </train>
+    <train>
+        <number>7004</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Жодино</arrivalStation>
+        <departureDateTime>15.06.2018 5:25</departureDateTime>
+        <arrivalDateTime>15.06.2018 6:22</arrivalDateTime>
+        <travelTime>00:57</travelTime>
+    </train>
+    <train>
+        <number>7272</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Смолевичи</arrivalStation>
+        <departureDateTime>18.06.2018 7:16</departureDateTime>
+        <arrivalDateTime>18.06.2018 8:06</arrivalDateTime>
+        <travelTime>00:50</travelTime>
+    </train>
+    <train>
+        <number>6109</number>
+        <departureStation>Минск</departureStation>
+        <arrivalStation>Молодечно</arrivalStation>
+        <departureDateTime>27.06.2018 7:23</departureDateTime>
+        <arrivalDateTime>27.06.2018 9:24</arrivalDateTime>
+        <travelTime>02:01</travelTime>
+    </train>
+</trains>
